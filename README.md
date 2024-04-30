@@ -5,4 +5,5 @@ Steps to ignite App
 step 1 - Give command "npm install"
 step 2 - "npm run start"
 
-Diployed Link - 
+Diployed Link - https://movie-website-gold-mu.vercel.app/
+Also U fint it in git hub repo
