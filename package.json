@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "this assignment for company",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "anjul",
   "license": "ISC",
